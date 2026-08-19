@@ -17,7 +17,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Sagyam/DevOps-Bootcamp.git
+    repoURL: https://github.com/Sagyam/GitOps.git
     targetRevision: main
     path: apps/podinfo
 
